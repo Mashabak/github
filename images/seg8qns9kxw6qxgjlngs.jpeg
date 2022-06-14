@@ -23,21 +23,21 @@
         <img src="/images/3917711.png">  
         </div>
         <div class="top-bar">
-         <a href="News.html">news</a>
+         <a href="">news</a>
         </div>
       </div>
               <div class="top-bar1">
-                <a href="weather.html"> weather</a>
+                <a href=""> weather</a>
               </div>
               
     </div>
                   <div class="top-bar2">
-                    <a href="Tv.html">TV</a>
+                    <a href="">TV</a>
                   </div>
 
   
   <div class="top-bar3">
-    <a href="sport.html">sport</a>
+    <a href="">sport</a>
   </div>
   
   <div id="all2">
@@ -72,8 +72,8 @@
                         <li><a href="lottery.html">
                             lottery</a></li>
     
-                        <li><a href="political.html">
-                            Politics</a></li>
+                        <li><a href="News.html">
+                            News</a></li>
     
                         <li><a href="blog.html">
                             Blog</a></li>
@@ -140,7 +140,7 @@
         </h4>
       </div>  
       <div id="img2">
-        <img src="/images/71f0e7d40b920a0f.jpeg">
+        <img src="/images/b5d5f4b478d54f65acf2dd15a8a7e98a.jpg">
       </div>
       <div class="short-story3">
                   
@@ -175,7 +175,7 @@
       <a href="">stolen money with <span>website <span>publisher</span></a>
 
 
-<img src="/images/unnamed.jpg">
+<img src="/images/seg8qns9kxw6qxgjlngs.jpeg">
   
   </div>
 
@@ -184,7 +184,7 @@
       <a href="">stolen money with <span>website <span>publisher</span></a>
 
 
-<img src="/images/unnamed (3).jpg">
+<img src="/images/20220604_165218.jpg">
   
   </div>
 
@@ -192,7 +192,7 @@
       <a href="">stolen money with <span>website <span>publisher</span></a>
 
 
-<img src="/images/unnamed (5).jpg">
+<img src="/images/20220604_165218.jpg">
   
   </div>
 
@@ -412,10 +412,8 @@
           <div class="iframe">
             <iframe width="412" height="232" src="https://www.youtube.com/embed/p01_0hH9o88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></ifram>
             </div>    
-            </div>
-          <div class="ill">
-     
             
+            </div>
 
   <script src="main.js"></script>
 </body>
