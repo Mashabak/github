@@ -844,11 +844,73 @@ background-color: #EAEAEA;
   
 }
 
-
-.pc1 {
-}
 .pc1 img {
   width: 10%;
 }
 
+#hills img{
+  width: 8%;
+}
 
+.gti img{
+  width: 100%;
+}
+
+#men {
+  width: 35px;
+  height: 30px;
+  margin: 30px  0 20px 20px;
+  cursor: pointer;
+}
+
+ .bar {
+background-color: black;
+  width: 20px;
+  height: 3px;
+  display: block;
+  transition: 0.3s ease;
+    margin-left: 16em;
+
+}
+
+#sis3 {
+margin-top: 3px;
+  
+}
+
+
+#sis2 {
+margin-top: 3px;
+  
+}
+
+.nav li {
+  list-style: none;
+  padding: 16px 0;
+
+}
+
+.nav li a:hover {
+  font-weight: bold;
+  color: black;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #56F900;
+  margin-left: 9em;
+}
+
+.nav {
+  height: 100%;
+}
+
+#nav li{
+
+right: 300px;
+
+}
+
+#nav {
+  left: -100px;
+}
