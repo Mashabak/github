@@ -381,8 +381,7 @@ font-weight: bolder;
   margin-left: 1.5em;
   font-family: serif;
   text-decoration: darkred underline;
-  padding-top: 2em;
-  
+
 }
 
 #scroll-img img{
@@ -930,5 +929,116 @@ right: 300px;
 }
 
 .pool h3 {
-  margin-top: 40px;
+  margin-top: 50px;
 }
+
+.top1 {
+  margin-top: 30px;
+}
+
+
+.top2 {
+  margin-top: -20px;
+}
+
+.top3 {
+    margin-top: -20px;
+
+}
+
+
+.yoo1 {
+  text-align: center;
+  color: black;
+  
+}
+
+.yo1 img {
+  width: 10%;
+}
+
+.yo2 img {
+  width: 12%;
+}
+
+.yo3 img {
+  width: 15%;
+}
+
+.yo4 img {
+  width: 17%;
+}
+
+
+ .e3 {
+   border-top: 2px solid whitesmoke;
+   margin-left: 2em;
+      margin-right: 2em;
+
+ }
+ 
+ .yo1 {
+   
+   margin-top: 7px;
+   margin-left: 4em;
+ }
+
+.yo2 {
+  margin-left: 8em;
+  margin-top: -40px;
+}
+
+
+.yo3 {
+  margin-left: 12em; 
+  margin-top: -40px;
+}
+
+.yo4  {
+  
+  margin-left: 16em;
+  margin-top: -35px;
+}
+
+.xh1 p {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.xh1 {
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+.xh1 {
+  border-radius: 5px;
+
+}
+
+.too img {
+  width: 85%;
+  margin-left: 2em;
+}
+
+.h3 {
+  margin-left: 1.8em;
+  margin-right: 1em;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.too1 img {
+  width: 85%;
+  margin-left: 2em;
+}
+
+.e3 {
+  padding: 4px;
+}
+
+ .e4 {
+   border-top: 2px solid whitesmoke;
+   margin-left: 2em;
+      margin-right: 2em;
+ }
+ 
